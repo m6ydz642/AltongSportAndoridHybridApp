@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974113369688",
+    "firebase_url": "https://altongsports-1982e.firebaseio.com",
+    "project_id": "altongsports-1982e",
+    "storage_bucket": "altongsports-1982e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974113369688:android:9d5f1a76db26109424642d",
+        "android_client_info": {
+          "package_name": "co.kr.altongsports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974113369688-4tliqtn7hcm57i7uscc1ljlhoogbphpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.kr.altongsports",
+            "certificate_hash": "28b946a06fd3a3580a41fa6cd945f000c50db308"
+          }
+        },
+        {
+          "client_id": "974113369688-nqc1qppsp951s00h20qflb0riedosml1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnG-ezOQvJVwTRKCFa33HkQPHOSARmrLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974113369688-nqc1qppsp951s00h20qflb0riedosml1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
